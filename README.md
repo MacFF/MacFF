@@ -16,4 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 6 hrs 38 mins
+
+Python   6 hrs 38 mins   █████████████████████████   99.93 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
+
 <!--END_SECTION:waka-->
