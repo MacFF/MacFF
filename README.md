@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 16 hrs 6 mins
+Total Time: 9 hrs 32 mins
 
-Python   15 hrs 18 mins  ███████████████████████▓░   95.05 %
-JSON     47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   8 hrs 44 mins   ███████████████████████░░   91.68 %
+JSON     47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
 ```
 
 <!--END_SECTION:waka-->
