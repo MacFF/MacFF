@@ -29,8 +29,7 @@ fish         12 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-:snake: :apple:  :ghost:
-
+:snake: :apple:  :ghost: :snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MacFF/MacFF/834ee6d6d194810a604b77231fdf730e547afaa6/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MacFF/MacFF/834ee6d6d194810a604b77231fdf730e547afaa6/github-snake.svg" />
