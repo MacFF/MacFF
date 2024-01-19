@@ -31,7 +31,7 @@ fish         12 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/MacFF/MacFF/blob/2a0f7b0a71cb8852105aa3e314b7a9bdc82308ae/github-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/MacFF/MacFF/blob/2a0f7b0a71cb8852105aa3e314b7a9bdc82308ae/github-snake.svg)https://github.com/MacFF/MacFF/blob/2a0f7b0a71cb8852105aa3e314b7a9bdc82308ae/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MacFF/MacFF/834ee6d6d194810a604b77231fdf730e547afaa6/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MacFF/MacFF/834ee6d6d194810a604b77231fdf730e547afaa6/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MacFF/MacFF/834ee6d6d194810a604b77231fdf730e547afaa6/github-snake.svg" />
 </picture>
