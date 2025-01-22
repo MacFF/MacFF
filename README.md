@@ -31,7 +31,12 @@ Text                       8 hrs 19 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 :snake: :apple:  :ghost: :snake:
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MacFF/MacFF/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MacFF/MacFF/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MacFF/MacFF/output/github-snake.svg" />
+</picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MacFF/MacFF/834ee6d6d194810a604b77231fdf730e547afaa6/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MacFF/MacFF/834ee6d6d194810a604b77231fdf730e547afaa6/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/MacFF/MacFF/834ee6d6d194810a604b77231fdf730e547afaa6/github-snake.svg" />
-</picture>
+</picture> -->
